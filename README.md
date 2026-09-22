@@ -202,11 +202,6 @@ An AI-powered interview preparation platform designed to help candidates prepare
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KuldeepKunwar03&show_icons=true&locale=en" alt="KuldeepKunwar03" />
-
-</p>
 
 
 ---
