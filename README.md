@@ -145,8 +145,6 @@ Full-Stack Developer | React.js | Node.js | AI-Powered Applications
 
 <h3 align="left">
 
-<img src="./nimbus-logo.png" width="35" height="35" align="center">
-
 <a href="https://nimbus-ai-henna.vercel.app/" target="_blank">
 Nimbus.ai
 </a>
@@ -210,11 +208,6 @@ An AI-powered interview preparation platform designed to help candidates prepare
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepKunwar03" alt="KuldeepKunwar03" />
-
-</p>
 
 ---
 
