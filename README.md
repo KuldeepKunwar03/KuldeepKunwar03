@@ -6,7 +6,7 @@
 Full-Stack Developer | React.js | Node.js | AI-Powered Applications
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Z3ibA3lVDuHB5nlu5bEHVux35Qm0V-NC/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <br>
 
