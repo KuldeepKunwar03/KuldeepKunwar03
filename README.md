@@ -202,6 +202,12 @@ An AI-powered interview preparation platform designed to help candidates prepare
 
 <h3 align="left">📊 GitHub Stats</h3>
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepKunwar03" alt="KuldeepKunwar03" />
+
+</p>
+
 
 
 ---
